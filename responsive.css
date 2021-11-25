@@ -1,0 +1,27 @@
+@media only screen and (max-width: 992px) {
+  .single-slides-item img,
+  .single-slides-item .w-2 {
+    max-width: 45%;
+  }
+  .slide-text {
+    padding: 160px 0;
+    padding-left: 20px;
+  }
+  .single-slides-item h2 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .btn {
+    padding: 10px 15px;
+
+    font-size: 16px;
+  }
+  .main-manu ul li a {
+    padding: 25px;
+  }
+}
+@media only screen and (max-width: 568px) {
+  .main-manu ul {
+    text-align: left;
+  }
+}
